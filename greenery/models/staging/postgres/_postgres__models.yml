@@ -1,0 +1,20 @@
+version: 2
+
+models:
+  - name: "stg_addresses"
+    description: "Delivery addresses"
+  - name: "stg_events"
+    description: "Events generated on the platform"
+  - name: "stg_order_items"
+    description: "Items in an order"
+  - name: "stg_orders"
+    description: "Order placed on the platform"
+  - name: "stg_products"
+    description: "Products available on the platform"
+  - name: "stg_promos"
+    description: "Promotions that are run on the platform"
+  - name: "stg_users"
+    description: "Users of the platform"
+
+
+
